@@ -1,5 +1,6 @@
 {
     "name": "AICar_TurnLRStop_variable_ok",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
